@@ -38,3 +38,14 @@ Database links
 
 In Oracle, you can create your own custom, complex operators.
 
+
+RDF Semantic Graph related about Fraud Detection. $100 on Sunday morning is normal or not? How would you determine if $100,000 is normal or not? 
+Well, RDF semantic graphs really let you create graphing type entities. 
+Let you create natural relationship between and among entities, so that the data can be processed in such a way that, for example, fraud can be detected as just one example. 
+So this is a graphing type database store inside of Oracle. 
+This is referred to as Triple-store, okay? 
+So when I say Oracle can store Triple-store, I'm really referring to RDF, the resource description framework. 
+Graphing databases, graphing databases are also compared with neo4J. 
+Neo4J is an example of a graphing database, that's compared with the RDF and the Oracle universe. 
+On AWS, on the Amazon environment, there's something called Neptune, which is the Amazon's version of the graphing database.
+
