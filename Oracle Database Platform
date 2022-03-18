@@ -49,3 +49,23 @@ Graphing databases, graphing databases are also compared with neo4J.
 Neo4J is an example of a graphing database, that's compared with the RDF and the Oracle universe. 
 On AWS, on the Amazon environment, there's something called Neptune, which is the Amazon's version of the graphing database.
 
+
+ Each table can only be related to a single other table IS NOT TRUE.
+ 
+ 
+ In Oracle, synonyms are references to a table.
+ 
+ 
+ Primary keys have which of the following characteristics?
+ Can not be null.
+ Are unique to the table.
+ Are always indexed
+ 
+ 
+ When creating a table, you must know:
+ The name of the table
+ The schema the table belongs to
+ The data type of each column in the table
+ 
+ 
+ 
