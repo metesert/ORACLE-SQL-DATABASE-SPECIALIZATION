@@ -9,3 +9,32 @@ ORACLE DB ADMIN TOOLS
 Install GUI interface
 To add or remove features.
 To cluster the environment and need to install clustering tools
+
+
+Which of the following is the single most difficult aspect of working with large datasets?
+Answer: Rate of growth
+
+Which step in the Database Path makes the data meaningful for the organization?
+Answer: Progress
+
+In the following image, what does the ORCL represent?( Oracle SQL )
+The connection you're using to gain access to an Oracle instance.
+
+A instance is the in-memory, running portion of your database.
+
+Which SQL Developer feature makes searching for items in a table much faster and easier?
+Indexes
+
+Which TWO features contain programmatic elements within Oracle and make it possible to write complex pieces of code?
+Packages
+Procedures
+
+Triggers are code to perform an action and can be associated with a database or a table.
+
+
+What do you use to connect to other Oracle or external databases?
+Database links
+
+
+In Oracle, you can create your own custom, complex operators.
+
