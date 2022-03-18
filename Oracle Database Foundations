@@ -1,0 +1,33 @@
+WHAT IS THE DATABASE
+The database engine is what knows and understands how to process every request coming in in the best manner possible.  
+
+The Database Engine's processing is like this = 1.PROCESS  2.PLAN  3.EXECUTE  4.RESULT and moreover Database Engine should be INTEGRATE and SCALE for be useful.
+
+Databases are seperating two different aspect. 
+Relational Databases and NoSQL Databases. Relational Databasis are using Oracle, MySQL, SQL Server. 
+NoSQL Databeses are using Couchbase, MongoDB, Cassandra
+
+A Question: What type of DB engine is meant for high-throughput and low latency? Answer is key-value
+
+
+
+DATABASE CATEGORIES
+1. RDBMS = "Called Traditional", İdeal for Customer Relationship Management System, Text Messages, E-Mails, Data Flows from everywhere. Schema 
+2. DOCUMENT = Stores documents use quickly for Content Magement, Mobile and Personalization, Text, Pictures, Emojis
+3. KEY-VALUE = High-throughput and low latency, ideal for real-time bidding, shopping cart. This means response quickly.
+4. IN-MEMORY = Queries use keys, ideal for real-time analytics like leaderboards.
+5. GRAPH = ideal for navigating relationship between data, ideal for Fraud-Detection, Social Networking 
+6. TIME-SERIES = Collect, store and process data, ideal for Event Tracking or real Time Health Tracking.
+7. LEDGER = Only allow to add, update, ideal for about the Recording, Health, Finance etc.
+
+
+
+STORAGE ARCHITECTURE
+Parameter File: Used to configure instance during start up
+Password File: Allows users with certain roles to connect remotely to perform admin tasks 
+Backup Files: Used the record the databases
+Archived Redo Log Files: Used when an internal error occurs to help determine the source of the issue 
+Alert Log File: Special entires of a choronological lof of messages and errors 
+
+What does the C in ACID transaction model stand for CONSISTENCY
+The BASE model provides high availability
