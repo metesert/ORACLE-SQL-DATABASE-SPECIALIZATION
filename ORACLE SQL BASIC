@@ -1,5 +1,5 @@
 B-TREE 
-Balanced tree are the most common type of database index and is an ordered list of values divided into rangers
+Balanced tree are the most common type of database index and is an ordered list of values divided into rangers (Default)
 
 
 BITMAP
