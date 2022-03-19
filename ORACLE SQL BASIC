@@ -1,3 +1,14 @@
+Which type of index is primarily designed for data warehousing environments where one index entry points to multiple rows?
+Bitmap indexes
+
+Which type of index is an ordered list of values divided into ranges and is the most common?
+A-B Tree index
+
+All indexes names are stored in uppercase letters within the index table
+
+Index-Organized Tables (IOTs) are indexes that are a variation on the B-Tree index but stores rows where they fit in the structure.
+
+
 B-TREE 
 Balanced tree are the most common type of database index and is an ordered list of values divided into rangers (Default)
 
