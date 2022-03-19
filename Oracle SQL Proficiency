@@ -13,3 +13,42 @@ a Primary Key in another table
 
 The value stored within a row/column combination in a table is called
 A Data Element
+
+
+In the following code snippet, which tables are we querying data from?
+select products.prodid, 
+     employees.empname, 
+     customers.custid,
+     services.servid 
+(-Customers
+_Employees
+-Products
+-Services)
+
+
+Using the following code snippet, which information would be displayed?
+select employees.empname, 
+     customers.custid,
+     services.servid
+from employees, customers, services 
+Answer: The empname from the employees table, the custid from the customers table, and the servid from the services table.
+
+
+create view vSalesInfo as 
+select sales.salesid "ID", 
+      customers.custname "Customer Name",
+      employees.empname "Employee Name"
+ from employees, customers, sales
+ where sales.custid=customers.custid and
+ sales.empid=employees.empid      
+ With the above code snippet, what would the column names be in the resulting view? 
+Answer: ID, Customer Name, Employee Name
+
+
+A custom built function is called a user-defined function (UDF)
+
+
+We have a table named products. To select the highest number in a column named inventory, which code statement below would we use?
+select max(inventory) from products
+
+
