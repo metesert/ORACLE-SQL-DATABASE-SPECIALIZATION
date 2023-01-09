@@ -20,7 +20,7 @@ Primarily designed for data warehousing environments where one entry in the inde
 SELECT and FROM
 SELECT studentID, FirstName, LastName, FirstName + ' ' + LastName AS FullName
 FROM student;
-
+..
 
 CREATE TABLE
 CREATE TABLE table_name (
