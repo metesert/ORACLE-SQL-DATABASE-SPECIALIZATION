@@ -50,7 +50,7 @@ Neo4J is an example of a graphing database, that's compared with the RDF and the
 On AWS, on the Amazon environment, there's something called Neptune, which is the Amazon's version of the graphing database.
 
 
- Each table can only be related to a single other table IS NOT TRUE.
+ Each table can only be related to a single other table IS NOT TRUE .
  
  
  In Oracle, synonyms are references to a table.
