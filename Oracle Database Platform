@@ -27,7 +27,7 @@ Indexes.
 
 Which TWO features contain programmatic elements within Oracle and make it possible to write complex pieces of code?
 Packages
-Procedures
+Procedures.
 
 Triggers are code to perform an action and can be associated with a database or a table.
 
