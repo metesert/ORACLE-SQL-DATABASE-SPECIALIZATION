@@ -23,7 +23,7 @@ The connection you're using to gain access to an Oracle instance.
 A instance is the in-memory, running portion of your database.
 
 Which SQL Developer feature makes searching for items in a table much faster and easier?
-Indexes.
+Indexes .
 
 Which TWO features contain programmatic elements within Oracle and make it possible to write complex pieces of code?
 Packages
