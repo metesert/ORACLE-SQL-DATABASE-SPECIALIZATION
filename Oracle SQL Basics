@@ -57,7 +57,7 @@ CREATE TABLE Persons (
 
 
 WHERE
-(AND, OR, IN, BETWEEN, and LIKE)
+(AND, OR, IN, BETWEEN, LIKE)
 SELECT studentID, FullName, sat_score, rcd_updated FROM student;
 
 STUDENT studentID, FullName, sat_score, recordUpdated
