@@ -1,7 +1,7 @@
 Which type of index is primarily designed for data warehousing environments where one index entry points to multiple rows?
 Bitmap indexes
 
-Which type of index is an ordered list of values divided into ranges and is the most common?
+Which type of index is an ordered list of values divided into ranges and is the most common ?
 (A-B Tree index)
 
 All indexes names are stored in uppercase letters within the index table
