@@ -42,7 +42,7 @@ select sales.salesid "ID",
  where sales.custid=customers.custid and
  sales.empid=employees.empid      
  With the above code snippet, what would the column names be in the resulting view? 
-Answer: ID, Customer Name, Employee Name
+Answer: ID, Customer Name, Employee Name;
 
 
 A custom built function is called a user-defined function (UDF)
